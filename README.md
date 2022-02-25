@@ -1,4 +1,4 @@
-# Thesaurus-
+# Thesaurus
 A thesaurus app written in Python that outputs the definition(s) of an English word, that a user input.
 
 The program takes various scenarios into consideration. For example, in the event that a user misspells the English word he/she is looking for the meaning of, the program uses the difflib library to find actual English words that closely resemble the user's input in spelling. Thus providing suggestions that the user can choose from. 
